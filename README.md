@@ -13,7 +13,7 @@
 | **Tools**          | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ## 📞 How to reach me
-- 📧 Email: lolitogoku@gmail.com
+- 📧 Email: msosaceada@gmail.com
 - 💼 LinkedIn: [Manuel Sosa Ceada](https://www.linkedin.com/in/manuel-sosa-ceada-98a9342b8/)
 
 ## 🤝 Let's Collaborate!
