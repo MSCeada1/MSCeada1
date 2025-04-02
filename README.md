@@ -1,8 +1,8 @@
 # Hi there! I'm Manuel Sosa 👋
 
 ## 🚀 About me
-- 👨‍💻 Application development student.
-- 🌍 Passionate about coding, technology, and innovation.
+- 🧑🏼‍💻🧑🏻‍💻 Application development student.
+- 💡 Passionate about coding, technology, and innovation.
 
 ## 🛠️ Technologies and Tools
 
