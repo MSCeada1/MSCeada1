@@ -1,4 +1,4 @@
-# Hi there! I'm Manuel Sosa ![Saludo animado](https://tenor.com/es/view/kid-gohan-dragon-ball-z-detekoi-tobikiri-zenkai-power-dragonball-gohan-gif-2860156692665093270)
+# Hi there! I'm Manuel Sosa 👋
 
 ## 🚀 About me
 - 🧑🏻‍💻 Application development student.
