@@ -1,4 +1,4 @@
-# Hi there! I'm Manuel Sosa ![Saludo animado](https://emojiterra.com/es/agitar-la-mano-color-de-piel-1-2/)
+# Hi there! I'm Manuel Sosa ![Saludo animado](https://iconscout.com/lottie-animation/waving-hand-7901926_6308229)
 
 ## 🚀 About me
 - 🧑🏻‍💻 Application development student.
