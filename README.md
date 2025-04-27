@@ -1,4 +1,4 @@
-# Hi there! I'm Manuel Sosa 👋
+# Hi there! I&#039;m Manuel Sosa 👋
 
 ## 🚀 About me
 - 🧑🏻‍💻 Application development student.
