@@ -1,4 +1,4 @@
-# Hi there! I'm Manuel Sosa ![Saludo animado](https://iconscout.com/lottie-animation/waving-hand-7901926_6308229)
+# Hi there! I'm Manuel Sosa ![Saludo animado](https://tenor.com/es/view/kid-gohan-dragon-ball-z-detekoi-tobikiri-zenkai-power-dragonball-gohan-gif-2860156692665093270)
 
 ## 🚀 About me
 - 🧑🏻‍💻 Application development student.
