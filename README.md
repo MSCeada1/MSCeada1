@@ -1,4 +1,4 @@
-# Hi there! I&#039;m Manuel Sosa 👋
+# Hi there! I'm Manuel Sosa ![Saludo animado](https://emojiterra.com/es/agitar-la-mano-color-de-piel-1-2/)
 
 ## 🚀 About me
 - 🧑🏻‍💻 Application development student.
